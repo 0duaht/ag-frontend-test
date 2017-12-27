@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="280px" viewBox="0 0 300 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>squircle-mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="squircle-mobile" fill-rule="nonzero" fill="#000000">
+            <path d="M248.872549,276.156863 C182.941176,281.143791 116.911765,281.143791 50.9803922,276.156863 C27.5,274.281046 5.98039216,254.24183 3.97058824,232.281046 C-1.32352941,170.79085 -1.32352941,109.117647 4.01960784,47.5816993 C6.02941176,25.6666667 27.5,5.62745098 50.9803922,3.75163399 C116.911765,-1.23529412 182.941176,-1.23529412 248.872549,3.75163399 C272.352941,5.62745098 293.872549,25.6666667 295.882353,47.627451 C301.22549,109.163399 301.22549,170.79085 295.882353,232.326797 C293.872549,254.24183 272.401961,274.281046 248.872549,276.156863 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
